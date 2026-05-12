@@ -1,2 +1,2 @@
-# ProjetPsinCSS
+# ProjetPsincss
 Projet Psin CSS
